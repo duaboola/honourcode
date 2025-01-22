@@ -2069,6 +2069,13 @@ h1 {
     height: 300px;
 }
 
+@media(min-width:768px) {
+
+    #featured-conference1 .blog-item .descr {
+        height: 400px;
+    }
+}
+
 .blog-item .descr h3 {
     line-height: 22px;
     margin-bottom: 15px;

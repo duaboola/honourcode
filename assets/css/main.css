@@ -2069,10 +2069,10 @@ h1 {
     height: 300px;
 }
 
-@media(min-width:768px) {
+@media(max-width:768px) {
 
     #featured-conference1 .blog-item .descr {
-        height: 100%;
+        height: auto;
     }
 }
 

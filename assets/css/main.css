@@ -2072,7 +2072,7 @@ h1 {
 @media(min-width:768px) {
 
     #featured-conference1 .blog-item .descr {
-        height: 400px;
+        height: 100%;
     }
 }
 
